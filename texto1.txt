@@ -1,6 +1,6 @@
 Primer acto: hola
 
-Segundo acto:
+Segundo acto: hola holaholahoal
 
 Tercer acto:
 
